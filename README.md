@@ -31,6 +31,7 @@
 	- Git
 	- VSCode
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/3026d403-4df0-4dbd-aa08-4f69973cff32)
 
 ***
 
@@ -39,6 +40,9 @@
 	- AWS Free Tier Account (with Personal Mail ID)
 	- Dev.to (with Personal Mail ID)
 > Add your answer here!
+![image](https://github.com/user-attachments/assets/12eb1c64-2f18-43b5-ac02-e8ca9b64f248)
+> ![image](https://github.com/user-attachments/assets/2975536d-8c4e-4222-963c-53e5249e939d)
+
 
 ***
 
@@ -82,7 +86,8 @@
 		Icon / Logo
 > Add your answer here!
 
-***
+***![image](https://github.com/user-attachments/assets/42ff9f7e-2e57-4428-8068-cb1552f5955b)
+
 
 #### #9 [Homework] Create the similar pipeline for the repo : https://github.com/SanthoshNC/developer-cards-react-app
 	- Github Repo URL
