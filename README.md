@@ -49,7 +49,8 @@
 #### #3 [React] Create a basic hello-world app using "Create React App" and push the same to github repo. Add the screenshots of the steps & the URL of that repo
 > Add your answer here!
 
-***
+***![image](https://github.com/user-attachments/assets/73e07097-3393-4adb-89e1-620b4916ba5e)
+
 
 #### #4 [Github Actions] Create a Github Actions pipeline to deploy the app in GitHub Pages
 > Add your answer here!
